@@ -1,6 +1,11 @@
-Ideia de utilização: Aplicação web simples
-
-Aplicação web hospedada em uma instância EC2: utilização de recurso computacional
-Banco de dados armazenado em instância EBS: armazenamento escalável com baixa latência 
-Conteúdo estático da aplicação armazenado em instância S3: armazenamento de baixa modificação e longa duração
-
+Aspectos principais
+	- Possibilidades de utilização de SNS e SQS
+		- Criando comunicação entre sistemas/serviços
+		- Enviando mensagens para usuários
+		- Utilizando gatilhos para iniciar tarefas
+	- Utilização de conteiners
+		- Usar a solução AWS para conteinerizar serviços
+		- Usar Kubernetes para conteiners
+		- Armazenar imagens no ECR
+	- Criação de fluxos de trabalho com Step Functions
+		- A enorme variedade de possibilidades de uso
