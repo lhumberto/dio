@@ -1,11 +1,1 @@
-Aspectos principais
-	- Possibilidades de utilização de SNS e SQS
-		- Criando comunicação entre sistemas/serviços
-		- Enviando mensagens para usuários
-		- Utilizando gatilhos para iniciar tarefas
-	- Utilização de conteiners
-		- Usar a solução AWS para conteinerizar serviços
-		- Usar Kubernetes para conteiners
-		- Armazenar imagens no ECR
-	- Criação de fluxos de trabalho com Step Functions
-		- A enorme variedade de possibilidades de uso
+Stack para criação de infra ( máquina, permissão, firewall, ... ) para hello world
